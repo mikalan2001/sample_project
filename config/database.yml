@@ -54,7 +54,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: mikalan2001
+  database: HEROKU_POSTGRESQL_JADE
   pool: 5
   username: mikalan2001
   password:
